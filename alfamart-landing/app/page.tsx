@@ -1,4 +1,6 @@
+"use client";
 import Image from "next/image";
+
 import SliderPromo from "@/components/SliderPromo";
 import React from "react";
 import { Phone, MessageCircle, Mail } from "lucide-react";
