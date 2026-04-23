@@ -7,9 +7,6 @@ import image2 from "@/public/promo2.jpg";
 import image3 from "@/public/promo3.jpg";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 
-import { Swiper, SwiperSlide } from "swiper/react";
-import { Autoplay, Pagination, Navigation } from "swiper/modules";
-
 interface ImageData {
   src: StaticImageData;
 }
